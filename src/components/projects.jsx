@@ -35,7 +35,7 @@ export default class Projects extends Component {
 											<span>Web Application similar to the Google Keep app</span>
 											<p className="icon">
 												<span><a href="https://github.com/alexanderejohnson/keeperapp" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> GitHub</a></span>
-												<span><a href="#projects" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /> View Here</a></span>
+												<span><a href="https://romantic-archimedes-1ae143.netlify.com/" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /> View Here</a></span>
 											</p>
 										</div>
 									</div>
