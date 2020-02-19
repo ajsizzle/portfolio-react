@@ -28,13 +28,13 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/keeperapp.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="#projects">Work 02</a></h3>
-											<span>Animation</span>
+											<h3><a href="#projects">Keeper App</a></h3>
+											<span>Web Application similar to the Google Keep app</span>
 											<p className="icon">
-												<span><a href="#projects" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> GitHub</a></span>
+												<span><a href="https://github.com/alexanderejohnson/keeperapp" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> GitHub</a></span>
 												<span><a href="#projects" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /> View Here</a></span>
 											</p>
 										</div>
