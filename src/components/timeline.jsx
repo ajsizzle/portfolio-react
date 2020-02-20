@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Freelancing Full-Stack Web Developer <span>2019-present</span></h2>
-                        <p></p>
+                        <p>Build websites and applications for clients to develop a stronger online presence for their businesses and convert the increased traffic into revenue.</p>
                       </div>
                     </div>
                   </article>
