@@ -56,14 +56,14 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
-								<div className="project" style={{backgroundImage: 'url(images/drumkit.png)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/newsletter.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="#projects">Drum Kit</a></h3>
-											<span>Interactive website that plays sounds and animations when keys are pressed/clicked. This website utilizes the DOM and intermediate functions in JavaScript</span>
+											<h3><a href="#projects">Newsletter Sign-Up</a></h3>
+											<span>Node.js application project to utilize mailchimp's API to have users subscribe to a newsletter</span>
 											<p className="icon">
-												<span><a href="https://github.com/alexanderejohnson/drum_kit" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> GitHub</a></span>
-												<span><a href="https://alexanderejohnson.github.io/drum_kit/" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /> View Here</a></span>
+												<span><a href="https://github.com/alexanderejohnson/newsletter-sign-up" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> GitHub</a></span>
+												<span><a href="https://aqueous-oasis-89120.herokuapp.com/" target="_blank" rel="noopener noreferrer"><i className="icon-eye" /> View Here</a></span>
 											</p>
 										</div>
 									</div>
