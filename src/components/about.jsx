@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a self-taught full-stack web developer. I love exploring new technologies and constantly learning and applying these skills to my toolset. My current focus is React.js and applying the library to current and future projects.</p>
+                    <p>I am a self-taught full-stack web developer. I love exploring new technologies and constantly learning and applying these skills to my toolset. My current focus is on React.js and applying the library to current and future projects.</p>
                     <p>There's nothing quite like the feeling of creating something out of nothing and making it work. This is my craft and I practice every day to get one step closer to mastering it.</p>
                     <p>When I'm not developing I enjoy gardening, surfing, and spending quality time with my growing family.</p>
                     </div>
